@@ -71,11 +71,11 @@ It demonstrates end-to-end data analysis using Python, covering data cleaning, E
 
 project
 
-│── Superstore_Analysis.ipynb
-│── sales_by_region.png
-│── profit_by_category.png
-│── discount_vs_profit.png
-│── README.md
+── Superstore_Analysis.ipynb
+── sales_by_region.png
+── profit_by_category.png
+── discount_vs_profit.png
+── README.md
 
 
 
